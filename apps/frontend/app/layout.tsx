@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   description: "Simple Todo App - Example Project for SAD",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
